@@ -2,4 +2,5 @@
 # Three basic string methods are astring.center(returns a string with sorrounding spaces), astring.count(returns numbers of occrences in string),astring.upper(returns string in all upercase format)
 
 
+
     

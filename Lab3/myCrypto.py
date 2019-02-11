@@ -1,5 +1,5 @@
 #subsstitution cipher
-import random
+
 alphabet = 'wjkedekjddjkdjedkwsswd!'
 key = 'nu.t!iyvxqfl,bcjrodhkaew spzgm'
 plaintext = "hello world"
@@ -22,5 +22,8 @@ cipher = encrypt(plaintext, key, alphabet)
 print(plaintext)
 print(cipher)
 print(decrypt(cipher, key, alphabet))
+
+
+
 
 
